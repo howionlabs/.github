@@ -1,0 +1,25 @@
+{
+    "name": "@howionlabs/.github",
+    "version": "0.1.0",
+    "description": "",
+    "dependencies": {},
+    "devDependencies": {
+        "markdownlint": "0.41.1"
+    },
+    "peerDependencies": {},
+    "engines": {},
+    "private": false,
+    "author": {
+        "name": "howion",
+        "email": "me@howion.com",
+        "url": "https://howion.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/howionlabs/.github.git"
+    },
+    "bugs": {
+        "email": "me@howion.com",
+        "url": "https://github.com/howionlabs/.github/issues"
+    }
+}
